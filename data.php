@@ -3,7 +3,6 @@
 <?php if(isset($_GET['C'])) { $img = $_GET['C']; }?>
 <?php if(isset($_GET['C'])) { $tag = $_GET['D']; }?>
 
-
 <center><textarea id="cop"rows="10" cols="45">
 
 
